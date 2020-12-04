@@ -7,7 +7,7 @@ Android Studio ![](https://www.androidpolice.com/wp-content/themes/ap2/ap_resize
 Adobe XD ![](https://cms-assets.tutsplus.com/uploads/users/16/courses/1316/preview_image/beginner-to-advanced-with-adobe-xd-auto-animate-400x277.png)
 - 🌱 I’m currently learning ...
 Flutter ![](https://plugins.jetbrains.com/files/13666/100004/icon/pluginIcon.png)
-Dart ![](https://e7.pngegg.com/pngimages/106/833/png-clipart-dart-logo-programming-language-computer-programming-android-text-logo-thumbnail.png)
+Dart ![](https://www.extremetech.com/wp-content/uploads/2011/10/dart-logo-banner1.jpg)
 
 - 🤔 I’m looking for help with ... 
 UI/UX Design ![](https://minervainfotech.com/blog/wp-content/uploads/2019/09/Untitled-6-1920x1280.jpg)
