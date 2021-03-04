@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working with **The Clever World & Quordnet Academy**
 
-- 🌱 I’m currently learning **Backend Development & Flutter Development**
+- 🌱 I’m currently learning **Data Science and Analysis, Product Designing & Flutter Development**
 
-- 👯 I’m looking to collaborate on **Product Design & Flutter Development**
+- 👯 I’m looking to collaborate on **Data Science and Analysis, Product Design & Flutter Development**
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help with **Data Science and Analysis**
 
 - 👨‍💻 All of my projects are available at [https://kaustavr25.wixsite.com/kaustavscanvas](https://kaustavr25.wixsite.com/kaustavscanvas)
 
