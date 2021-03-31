@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science and Analysis, Product Designing & Flutter Development**
 
-- 👯 I’m looking to collaborate on **Data Science and Analysis, Product Design & Flutter Development**
+- 👯 I’m looking to collaborate on **Data Science and Analysis & Product Design**
 
 - 🤝 I’m looking for help with **Data Science and Analysis**
 
