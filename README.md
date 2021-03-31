@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustavr19" alt="kaustavr19" /></a> </p>
 
-- 🔭 I’m currently working with **The Clever World & Quordnet Academy**
+- 🔭 I’m currently working with **The Clever World**
+
+- 🔭 Ex-Product Designer at **Quordnet**
 
 - 🌱 I’m currently learning **Data Science and Analysis, Product Designing & Flutter Development**
 
