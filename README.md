@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustavr19" alt="kaustavr19" /></a> </p>
 
-<img align ="right" src = "https://https://github.com/kaustavr19/kaustavr19/blob/main/RGFzaGF0YXJfRGVzaWduZXJfTmV1dHJhbF9jb2xvcl9ER19zaGFkb3c%3D.png" width="150" height="150">
+<img align ="right" src = "https://drive.google.com/file/d/1y8fK2bQ9Az-I3f2atPwj9dzU9oee1X4S/view?usp=sharing" width="150" height="150">
 
 - 🔭 I’m currently working with **The Clever World**
 
