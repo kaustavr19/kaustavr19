@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustavr19" alt="kaustavr19" /></a> </p>
 
+<img align ="right" src = "https://https://github.com/kaustavr19/kaustavr19/blob/main/RGFzaGF0YXJfRGVzaWduZXJfTmV1dHJhbF9jb2xvcl9ER19zaGFkb3c%3D.png" width="150" height="150">
+
 - 🔭 I’m currently working with **The Clever World**
 
 - 🔭 Ex-Product Designer at **Quordnet**
@@ -20,7 +22,7 @@
 - 💬 Ask me about **Photography & Product Designing**
 
 - 📫 How to reach me **kaustavr25@gmail.com**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaustav-roy-8070111a3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaustav-roy-8070111a3" height="30" width="40" /></a>
