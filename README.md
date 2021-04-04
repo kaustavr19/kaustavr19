@@ -21,9 +21,6 @@
 
 - 📫 How to reach me **kaustavr25@gmail.com**
 
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/kaustavr19/count.svg" alt ="Loading">
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaustav-roy-8070111a3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaustav-roy-8070111a3" height="30" width="40" /></a>
@@ -38,3 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustavr19&show_icons=true&locale=en" alt="kaustavr19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustavr19&" alt="kaustavr19" /></p>
+
+
+
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/kaustavr19/count.svg" alt ="Loading">
