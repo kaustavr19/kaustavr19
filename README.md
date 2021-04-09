@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustavr19&label=Profile%20views&color=0e29b4&style=flat" alt="kaustavr19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustavr19" alt="kaustavr19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustavr19&theme=dracula" alt="kaustavr19" /></a> </p>
 
 <img align ="right" src = "https://github.com/kaustavr19/kaustavr19/blob/main/dashatar.png" width="400" height="270">
 
