@@ -44,7 +44,8 @@
 
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/kaustavr19/count.svg" alt ="Loading">
-<br>
+
+<br/>
 ## Connect with me
 <p align="center">
 <a href="https://www.linkedin.com/in/kaustav-roy-8070111a3/"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
