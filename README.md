@@ -44,11 +44,12 @@
 
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/kaustavr19/count.svg" alt ="Loading">
-
+<p>
 ## Connect with me
 <p align="center">
 <a href="https://www.linkedin.com/in/kaustav-roy-8070111a3/"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
 <a href="https://kaustavr25.medium.com/"><img height="45" src="https://waxex.africa/wp-content/uploads/2018/01/medium-icon-white-on-black.png"></a>
 &nbsp;&nbsp;
   <a href="mailto:kaustavr25@gmail.com"><img height="45" src="https://toppng.com/uploads/preview/mail-icon-logo-template-icono-de-gmail-11562954424h5fw2mradf.png"></a>&nbsp;&nbsp;
+</p>
 </p>
