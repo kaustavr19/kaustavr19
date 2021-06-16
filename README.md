@@ -43,7 +43,7 @@
 
 
 ### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/kaustavr19/count.svg" alt ="Loading">
+<p><img align="left" src = "https://profile-counter.glitch.me/kaustavr19/count.svg" alt ="Loading"></p>
 
 ## Connect with me
 <p align="center">
