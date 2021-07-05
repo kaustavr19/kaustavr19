@@ -7,7 +7,7 @@
 
 <img align ="right" src = "https://github.com/kaustavr19/kaustavr19/blob/main/dashatar.png" width="400" height="270">
 
-- 🔭 I’m currently working with **The Clever World**
+- 🔭 I’m currently working on my own projects
 
 - 🔭 Ex-Product Designer at **Quordnet**
 
