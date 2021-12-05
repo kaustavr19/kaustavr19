@@ -10,14 +10,15 @@
 - 🔭 I’m currently working on my own projects
 
 - 🔭 Ex-Product Designer at **Quordnet**
+- 🔭 Ex-Data Science Intern at **AINE AI**
 
-- 🌱 I’m currently learning **Data Science and Analysis, Product Designing & Flutter Development**
+- 🌱 I’m currently learning All About **User Experience**
 
-- 👯 I’m looking to collaborate on **Data Science and Analysis & Product Design**
+- 👯 I’m looking to collaborate on **UX Research & Visual Design**
 
-- 🤝 I’m looking for help with **Data Science and Analysis**
+- 🤝 I’m looking for help with **UX Desugn**
 
-- 👨‍💻 All of my projects are available at [https://kaustavr25.wixsite.com/kaustavscanvas](https://kaustavr25.wixsite.com/kaustavscanvas)
+
 
 - 💬 Ask me about **Photography & Product Designing**
 
