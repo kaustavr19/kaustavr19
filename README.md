@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **UX Research & Visual Design**
 
-- 🤝 I’m looking for help with **UX Desugn**
+- 🤝 I’m looking for help with **UX Design**
 
 
 
