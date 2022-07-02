@@ -7,8 +7,8 @@
 
 <img align ="right" src = "https://github.com/kaustavr19/kaustavr19/blob/main/dashatar.png" width="400" height="270">
 
+- 🔭 Project Intern(Design Team) @Eugenie.ai(Fractal Analytics)
 - 🔭 I’m currently working on my own projects
-
 - 🔭 Ex-Product Designer at **Quordnet**
 - 🔭 Ex-Data Science Intern at **AINE AI**
 
