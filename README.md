@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaustav</h1>
-<h3 align="center">A UX Researcher & Visual Designer, from India</h3>
+<h3 align="center">A Product Researcher & Designer, from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustavr19&label=Profile%20views&color=0e29b4&style=flat" alt="kaustavr19" /> </p>
 
@@ -7,22 +7,37 @@
 
 <img align ="right" src = "https://github.com/kaustavr19/kaustavr19/blob/main/dashatar.png" width="400" height="270">
 
-- 🔭 Prduct Designer - II **@Eugenie.ai(Fractal Analytics)**
-- 🔭 UX Designer @**URECKON, UEM Kolkata**
+- 🔭 Product & Accelerators **@Fractal Analytics**
+- 🔭 Ex-Product Designer **@Eugenie.ai**
+- 🔭 Building @**Pephub**
 - 🔭 Ex-Product Designer @**Quordnet**
-- 🔭 Ex-Data Science Intern @**AINE AI**
+- 🔭Track Prize winner @**ETHIndia'24**
+-  UI/UX | Product | Sustainability & Climate-tech | Design Mentor | Multiple National hackathon winner
 
 
-- 🌱 I’m currently learning All About **User Experience**
+- I love to create innovative and real impactful solutions by designing better User Interfaces and creating great User Experiences. I also love to discuss about all things Design, which is why I am into Mentoring as well.
 
-- 🤝 I’m looking to collaborate on **UX Research & Visual Design**
+- ABOUT ME
+-- 2+ years as a Product (UI/UX) Designer
+-- Product Designer II @Eugenie.ai
+-- My design for Eugenie.ai was featured on the platform of Google I/O 2024
+-- Love to discuss all things design
+-- Design thinker
+-- Building PepHub
 
+- I've been a multi-disciplinary product (UI/UX) designer for more than 2 years and a design mentor for as long. My work for Eugenie.ai in the sustainability and climate-tech sector during the Google for Startups Accelerator earned my organisation the highest accolade. The design of the Sustainability module of Eugenie was featured on the stage of Google I/O 2024, which was one of my greatest achievements. 
 
+**@LEARN WITH ME**
+I love to discuss and talk about Product Design and I love helping and mentoring individuals and teams create better, innovative and impactful solutions be it at competitions or professional levels. And I like to create content on Design as well.
 
+**FIND ME ONLINE**
+Portfolio - kaustav-portfolio.vercel.app
+Behance - https://www.behance.net/kaustavroy1
+Other links - https://linktr.ee/roy_k19
 
 - 💬 Ask me about **Photography & Product Designing**
 
-- 📫 How to reach me **kaustavr25@gmail.com**
+- 📫 How to reach me **ux.by.roy@gmail.com**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
